@@ -1,0 +1,23 @@
+.Dashbord-Container{
+    display: flex;
+    flex-direction: column;
+}
+
+.Note_Container{
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.Display-Note{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+
